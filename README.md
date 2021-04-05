@@ -8,5 +8,5 @@ Extras
 
 * github username: shumwe
 * contact me @: bravin.shumwe@yandex.com
-* portfolio: shumwebravin.herokuapp.com
+* portfolio: https://shumwebravin.herokuapp.com
 
