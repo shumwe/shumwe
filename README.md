@@ -6,7 +6,7 @@ with intrests in; web developement, pentesting, blockchain developement and comp
 Extras
 ------
 
-~ github username: shumwe
-~ contact me @: bravin.shumwe@yandex.com
-~ portfolio: shumwebravin.herokuapp.com
+*github username: shumwe
+*contact me @: bravin.shumwe@yandex.com
+*portfolio: shumwebravin.herokuapp.com
 
