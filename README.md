@@ -1,7 +1,7 @@
 # BRAVIN SHUMWE OUNZA
 ```
-Currently a student at Zetech University pursuing a degree in Information technology
-with intrests in; web & blockchain developement and pentesting.
+Currently, a student at Zetech University pursuing a degree in Information technology
+with interests in; web & blockchain developement and pen-testing..
 ```
 Extras
 ------
