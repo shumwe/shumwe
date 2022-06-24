@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumwe&label=Profile%20views&color=0e75b6&style=flat" alt="shumwe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shumwe" alt="shumwe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=shumwe" alt="shumwe" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud DevOps engineering with aws**
 
 - 📫 How to reach me **bravin.shumwe@gmail.com**
-- 👯 Looking to collaborate on projects involving **django, kubernetes, and docker**.
+- 👯 Looking to collaborate on projects involving **django | kubernetes | docker**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
