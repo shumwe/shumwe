@@ -15,14 +15,12 @@
 </a>
 <a href="https://instagram.com/nivarb.ewmuhs" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+</a>
 
 ### I'm thrilled to see you here!  
-- 🌱 I’m currently learning **Cloud DevOps Engineering with AWS** on Udacity.
-- 👯 Openly looking to collaborate on projects involving Django, Kubernetes, Docker, and related technologies. 📫 Reach me at **bravin.shumwe@gmail.com**  
+- 🌱 I’m currently learning **Cloud DevOps Engineering with AWS** at Udacity.
+- 👯 Openly looking to collaborate on projects involving Django, Kubernetes, Docker, and related technologies.
+- 📫 Reach me at: **bravinshumwe@gmail.com**  | **+254779957530**
   
 
 <br/>  
