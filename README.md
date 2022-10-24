@@ -20,7 +20,7 @@
 ### I'm thrilled to see you here!  
 - 🌱 I’m currently learning **Cloud DevOps Engineering with AWS** at Udacity.
 - 👯 Openly looking to collaborate on projects involving Django, Kubernetes, Docker, and related technologies.
-- 📫 Reach me at: **bravinshumwe@gmail.com**  | **+254779957530**
+- 📫 Reach me at: **+254779957530**
   
 
 <br/>  
